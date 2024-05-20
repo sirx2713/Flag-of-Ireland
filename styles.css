@@ -1,0 +1,23 @@
+body{
+    background-color: #FFE8C8;
+    font-family: sans-serif;
+}
+#container{
+    display: flex;
+    flex-direction: row;
+}
+#container > #green-div{
+    height: 800px;
+    width: 400px;
+    background-color: #009A44;
+}
+#container > #white-div{
+    height: 800px;
+    width: 400px;
+    background-color: white;
+}
+#container > #orange-div{
+    height: 800px;
+    width: 400px;
+    background-color: #FF8200;
+}
